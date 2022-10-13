@@ -3,6 +3,6 @@ This is my submission for the Module 1 Challenge project. Following the paramete
 # Required Elements for Submission
 *URL* = https://thechonklord.github.io/module-1-challenge/
 
-*Screenshot* ![alt text] (mod1chalss1.png)
+*Screenshot* ![screenshot](mod1chalss1.png)
 
-![alt text] (mod1chalss2.png)
+![screenshot](mod1chalss2.png)
